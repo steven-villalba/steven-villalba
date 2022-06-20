@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: black;
+    color: #fff;
+  }  
+<style/>
 <h1 align="center">Hi 👋, I'm Steven Villalba</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 <img alt="Dragon Ball image" align="right" src="http://pa1.narvii.com/6737/e2c7662dbdcf61190330c273716ab9bda15e22f1_00.gif"/>
